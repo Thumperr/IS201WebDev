@@ -1,0 +1,49 @@
+h1{
+    color: purple;
+}
+
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+ol{
+    font-family: Arial, sans-serif, helvetica, roboto;
+    color: purple;
+}
+
+ol ul{
+    font-family: Times New Roman, serif;
+    color: black;
+}
+
+.header{
+    background-color: lemonchiffon;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+.mainbody{
+    background-color: aquamarine;
+    width: 100%;
+}
+
+.footer{
+    background-color: lemonchiffon;
+    height: 25px;
+    bottom: 0px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+
+nav a{
+    color: white;
+}
+
+p{
+    text-align: center;
+}
